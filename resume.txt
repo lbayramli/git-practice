@@ -1,3 +1,6 @@
 Name:Kunkka
 Occupation:Admiral
 Objective:to be admired and remembered for good things
+Preferred Rate:ss
+Strength:there are many of them, it takes much time to list of them also good at GIT
+Weakness:
